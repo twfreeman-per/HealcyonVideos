@@ -5,7 +5,7 @@
 		"id": 0,
 		"image": "swiftUI",
 		"time": "2 hours",
-		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
+		"description": "Discover the innovative and simple way to gain self awareness.",
 		"lessons": [{
 				"id": 0,
 				"title": "Path to the Stars",
@@ -33,7 +33,7 @@
 		"id": 0,
 		"image": "swiftUI",
 		"time": "30 minutes",
-		"description": "Test your knowledge of SwiftUI.",
+		"description": "Test your knowledge of Astrology.",
 		"questions": [{
 				"id": 0,
 				"content": "<p>Every SwiftUI app has exactly one scene to which contains a view hierarchy.</p>",
