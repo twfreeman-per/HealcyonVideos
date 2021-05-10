@@ -1,6 +1,6 @@
 [{
 	"id": 1,
-	"category": "SwiftUI",
+	"category": "Astrology",
 	"content": {
 		"id": 0,
 		"image": "swiftUI",
@@ -8,66 +8,24 @@
 		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
 		"lessons": [{
 				"id": 0,
-				"title": "App Structure and Behaviour",
+				"title": "Path to the Stars",
 				"video": "SwiftUI%20trimmed.mp4",
 				"duration": "15 minutes",
-				"explanation": "<p>Declare your app by creating a structure that conforms to the App protocol and add one or more scenes to it. You can use built-in scenes, like WindowGroup, or you can compose custom scenes that conform to the Scene protocol. Scenes contain the view hierarchies that define the user interface of your app, and have a life cycle that the system manages.</p>"
+				"explanation": "<p>To be of Service has always been my aim, so of course something in which I have skill and passion would be of quality service! The block has been pulverized, I am ready to hang my shingle out and others with their Astrology charts. Chinese or Western, or both! The strength of having a consultation is that I aim to distill all the overwhelming amount of information in Astrology into the practical and grounded (Virgo again!) actions or information that will be of most use to you at this point in time.</p>"
 			},
 			{
 				"id": 1,
-				"title": "Views and Controls",
+				"title": "Practical Mysticism",
 				"video": "SwiftUI%20trimmed.mp4",
 				"duration": "15 minutes",
-				"explanation": "<p>Views and controls are the visual building blocks of your app's user interface. Use them to present your app's content onscreen. Views represent text, images, shapes, custom drawings, and compositions of any and all of these together. Controls enable user interaction with consistent APIs that adapt to their platform and context. Combine views using containers that specify their visual relationships and hierarchy. Use methods called modifiers to customize the display, behavior, and interactivity of built-in views and those you create for your app.</p>"
+				"explanation": "<p>Art and things that evoke the feeling of being alive are essential to life and very practical. A better word than practical may be the expression of the mystical in our day-to-day world. I have choosen embodiment and the human body vehicle as an expression for the mystic due to its immense practicality: nothing else is so constant and immanent to our lives than our body. It is the vehicle through which all other experiences are had, the container for our human experience.</p>"
 			},
 			{
 				"id": 2,
-				"title": "View Layout and Presentation",
+				"title": "Core Shamanism",
 				"video": "SwiftUI%20trimmed.mp4",
 				"duration": "15 minutes",
-				"explanation": "<p>Use stacks and lists to lay out the views of your user interface. You can combine static views with views that are dynamically generated from collections of data. All container views update and adjust the positions of their children in response to changes in content or interface dimensions.</p>"
-			},
-			{
-				"id": 3,
-				"title": "Drawing and Animation",
-				"video": "SwiftUI%20trimmed.mp4",
-				"duration": "15 minutes",
-				"explanation": "<p>Use drawing tools to combine shapes or define custom paths for shapes of your own design. Apply styles from environment-aware colors to rich gradients to the foreground, background, and outline of your shapes.</p>"
-			},
-			{
-				"id": 4,
-				"title": "Framework Integration",
-				"video": "SwiftUI%20trimmed.mp4",
-				"duration": "15 minutes",
-				"explanation": "<p>Integrate SwiftUI with your app's existing content using:</p><ul><li><p>Hosting controllers to add AppKit, UIKit, or WatchKit views and view controllers to your SwiftUI interfaces. A hosting controller wraps the designated view or view controller and facilitates communication between the wrapped object and your SwiftUI views.</p></li><li><p>Representable objects to add SwiftUI views into your existing AppKit, UIKit, or WatchKit interfaces. A representable object wraps a set of SwiftUI views in a form that you can then add to your storyboard-based app.</p></li></ul>"
-			},
-			{
-				"id": 5,
-				"title": "State and Data Flow",
-				"video": "SwiftUI%20trimmed.mp4",
-				"duration": "15 minutes",
-				"explanation": "<p>SwiftUI offers a declarative approach to user interface design. As you compose a hierarchy of views, you also indicate data dependencies for the views. When the data changes, either due to an external event or because of an action taken by the user, SwiftUI automatically updates the affected parts of the interface. As a result, the framework automatically performs most of the work traditionally done by view controllers.</p><p>The framework provides tools, like state variables and bindings, for connecting your app's data to the user interface. These tools help you maintain a single source of truth for every piece of data in your app, in part by reducing the amount of glue logic you write.</p>"
-			},
-			{
-				"id": 6,
-				"title": "Property Wrappers",
-				"video": "SwiftUI%20trimmed.mp4",
-				"duration": "15 minutes",
-				"explanation": "<p>SwiftUI implements many data management types, like State and Binding, as Swift property wrappers. Apply a property wrapper by adding an attribute with the wrapper's name to a property's declaration. The property gains the behavior specified by the wrapper. The state and data flow property wrappers in SwiftUI watch for changes in your data, and automatically update affected views as needed. When you refer directly to the property in your code, you access the wrapped value. Alternatively, you can access a property wrapper's projected value by prefixing the property name with the dollar sign ($). SwiftUI state and data flow property wrappers always project a Binding, which is a two-way connection to the wrapped value, allowing another view to access and mutate a single source of truth.</p>"
-			},
-			{
-				"id": 7,
-				"title": "Gestures",
-				"video": "SwiftUI%20trimmed.mp4",
-				"duration": "15 minutes",
-				"explanation": "<p>Respond to taps and gestures by adding gesture modifiers to your views. Create custom gestures from individual gestures using the simultaneously(with:), sequenced(before:), or exclusively(before:) modifiers, or combine gestures with keyboard modifiers using the modifiers(_:) modifier.</p>"
-			},
-			{
-				"id": 8,
-				"title": "Previews",
-				"video": "SwiftUI%20trimmed.mp4",
-				"duration": "15 minutes",
-				"explanation": "<p>Generate dynamic, interactive previews of your custom views. Xcode statically discovers types that conform to the PreviewProvider protocol in your app, and generates previews for each provider it discovers.</p>"
+				"explanation": "<p>Core Shamanism are Universal ways of accessing and understanding the Spirit Realms for the purposes of healing, divination, psychopomp work, and soul retrieval.</p>"
 			}
 		]
 	},
@@ -105,48 +63,6 @@
 					"HStack",
 					"ZStack",
 					"List"
-				]
-			},
-			{
-				"id": 3,
-				"content": "<p>You can define custom paths to create shapes in SwiftUI.</p>",
-				"correctIndex": 0,
-				"answers": [
-					"true",
-					"false"
-				]
-			},
-			{
-				"id": 4,
-				"content": "<p>Select the best answer.</p>",
-				"correctIndex": 3,
-				"answers": [
-					"You can add SwiftUI views to a storyboard-based app using hosting controllers",
-					"You can add UIKit views to a SwiftUI project using representable objects",
-					"SwiftUI and UIKit are separate, and shouldn't be integrated",
-					"Answers 1 and 2"
-				]
-			},
-			{
-				"id": 5,
-				"content": "<p>In SwiftUI, interfaces are created:</p>",
-				"correctIndex": 2,
-				"answers": [
-					"Procedurally",
-					"Dynamically",
-					"Declaratively",
-					"Eccentrically"
-				]
-			},
-			{
-				"id": 6,
-				"content": "<p>Prefixing a property wrapped property with $ will access its",
-				"correctIndex": 1,
-				"answers": [
-					"Wrapped value",
-					"Projected value",
-					"Financial value",
-					"That's invalid syntax"
 				]
 			}
 		]
